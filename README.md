@@ -1,4 +1,4 @@
-![logo](https://github.com/Pranav0501/Pranav0501/blob/master/Modern%20Minimalist%20Simple%20Technology%20Banner.png)
+![logo](https://github.com/Pranav0501/Pranav0501/blob/master/githubbanner.png)
 <h1 align="center">Hi there 👋, I'm Pranav Gyara</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
